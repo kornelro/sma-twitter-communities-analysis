@@ -1,0 +1,8 @@
+jupyter
+pandas
+networkx
+tqdm
+plotly
+matplotlib
+wordcloud
+sklearn
