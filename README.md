@@ -1,1 +1,0 @@
-# sma-twitter-communities-analysis
