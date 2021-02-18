@@ -20,7 +20,7 @@ Prepration and analysis network of Twitter users participating in the discussion
 ### Project steps
 1. Scrapping tweets from 19.10.2020 - 23.10.2020 with hashtag `#trybunalkonstytucyjny` which is related with controversional polish Constitutional Court decision concerning abortion.
 2. Scraping all tweets of found users from 12.10.2020 - 23.10.2020.
-3. Users graph building - users as nodes and edges between users if one user retweeted other user's tweet at least once (26 335 and 70 403 edges in graph).
+3. Users graph building - users as nodes and edges between users if one user retweeted other user's tweet at least once (26 335 nodes and 70 403 edges in graph).
 4. Detecting communities and computing graph layout with Gephi.
 5. Analysis users activities in most meaningfull communitites.
 6. Performing users classification task on prepared data.
